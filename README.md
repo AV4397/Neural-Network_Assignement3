@@ -1,8 +1,11 @@
 # Deep Learning Assignment – Autoencoders and RNNs
 
 **Author:** Arvind Veda
+
 **Student ID:** 700774397
+
 **University:** University of Central Missouri  
+
 **Course:** Neural Network & Deep Learning  
 
 ## 🔍 Overview
